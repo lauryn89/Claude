@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kttape.com.au/sitemap.xml
